@@ -1,3 +1,2 @@
 line1 checkinh
 line2
-line 3
